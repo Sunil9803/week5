@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .container {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    text-align: center;
+  }
+  
+  .song-title {
+    font-family: 'Georgia', serif;
+    color: #2c3e50;
+  }
+  
+  .artist-name {
+    font-family: 'Trebuchet MS', sans-serif;
+    color: #34495e;
+  }
+  
+  .album-cover {
+    width: 100%;
+    max-width: 300px;
+    margin: 20px 0;
+    border-radius: 10px;
+  }
+  
+  .lyrics p {
+    font-family: 'Courier New', monospace;
+    font-size: 1.1em;
+    margin: 10px 0;
+  }
+  
+  .line1 {
+    color: #2980b9; /* Reflecting nostalgia */
+  }
+  
+  .line2 {
+    color: #27ae60; /* Advice and growth */
+  }
+  
+  .line3 {
+    color: #2980b9; /* Reiteration of nostalgia */
+  }
+  
+  .line4 {
+    color: #f39c12; /* Youthful ambition */
+  }
+  
+  .line5 {
+    color: #e67e22; /* Pushing limits */
+  }
+  
+  .line6 {
+    color: #c0392b; /* Recklessness */
+  }
+  
+  .line7 {
+    color: #8e44ad; /*
+  
